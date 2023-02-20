@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [PHP Developer](https://github.com/okbajiya)
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **MongoDB**
 
 - 📫 How to reach me **erbajiya@gmail.com**
 
