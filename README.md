@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okbajiya&label=Profile%20views&color=0e75b6&style=flat" alt="okbajiya" /> </p>
 
-- 🔭 I’m currently working on [Machine Learning](https://github.com/okbajiya)
+- 🔭 I’m currently working on [PHP Developer](https://github.com/okbajiya)
 
 - 🌱 I’m currently learning **DSA**
 
